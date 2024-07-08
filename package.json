@@ -2,8 +2,8 @@
   "name": "blog_mvc",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "start": "nodemon",
+  "main": "server.js",
+  "start": "nodemon server",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
